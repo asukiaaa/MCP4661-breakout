@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP4661-breakout-rescue")(type "Legacy")(uri "${KIPRJMOD}/MCP4661-breakout-rescue.lib")(options "")(descr ""))
+  (lib (name "asukiaaa-kicad-symbols")(type "KiCad")(uri "${KIPRJMOD}/asukiaaa-kicad-symbols/asukiaaa-kicad-symbols.kicad_sym")(options "")(descr ""))
+)
