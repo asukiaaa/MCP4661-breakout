@@ -1,0 +1,5 @@
+*Reference,*Manufacturer Part number,*QTY,*Original,Description,Purchase Link
+C1,,1,N,0402 0.1uf equal or more than 5V,
+"J1, J2",,2,N,2.54mm 1x05 pin header,
+U1,MCP4661T-502E/ML,1,Y,5k ohm,https://www.digikey.jp/ja/products/detail/microchip-technology/MCP4661T-502E-ML/2059726
+R1,,1,N,0402 0kohm resistor,
